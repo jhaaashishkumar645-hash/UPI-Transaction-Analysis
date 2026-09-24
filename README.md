@@ -69,9 +69,11 @@ Download UPI Transactions.xlsx.
 Open the dataset in Microsoft Excel for reviewing the raw data.
 Open Transaction Data Analysis.pbix in Microsoft Power BI Desktop.
 Explore the interactive dashboard and visualizations.
- Author: Aashish Kumar Jha
+ Author
  Linkedin: www.linkedin.com/in/aashish-kumar-jha-138342323
 
 Aashish Kumar Jha
 
-B.Tech CSE — Artificial Intelligence & Machine Learning
+ Linkedin: www.linkedin.com/in/aashish-kumar-jha-138342323
+
+
